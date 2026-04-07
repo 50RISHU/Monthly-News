@@ -6,6 +6,10 @@ A modern, lightweight news application built with SvelteKit for an internship as
 
 This is a SvelteKit-based news app that displays a list of news items through a clean, modular interface. It features a simple API endpoint that serves news data and a reusable card component for displaying articles. The app is designed as a learning project to understand SvelteKit fundamentals and modern web development practices.
 
+## Website Link
+
+**Live Demo**: [View the News App](https://monthly-news.vercel.app/) - A fully functional news application deployed on Vercel
+
 ## Features
 
 - **News List Display**: Interactive list of news items rendered with reusable components
